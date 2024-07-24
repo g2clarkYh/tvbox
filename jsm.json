@@ -655,8 +655,7 @@
       "searchable": 1,
       "filterable": 1,
       "jar": "./jar/fty.jar;md5;b25d0e7f7c87f31aa886b78fe43a7d4c",
-      "categories": [ "国产剧", "韩剧", "日剧", "港剧", "台剧", "动作片", "喜剧片", "爱情片", "科幻片", "战争片", "恐怖片", "剧情片", "国产动漫", "日韩动漫", "欧美动漫", "大陆综艺", "日韩综艺" ],
-      "changeable": 0
+       "changeable": 0
     },
     {
       "key": "Mtv",
