@@ -537,26 +537,6 @@
       "jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
     },
     {
-      "key": "蛋蛋",
-      "name": "影视 | 蛋蛋[直连]",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
-        "请求头": "手机#Referer$https://www.dandanju.cc/",
-        "分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
-        "分类": "电影$1#剧集$2#动漫$4#综艺$4",
-        "数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
-        "搜索模式": "1",
-        "搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
-        "搜索数组": "<li class=\"active clearfix&&</li"
-      },
-      "jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
-    },
-    {
       "key": "奇优",
       "name": "影视 | ️奇优[直连]",
       "type": 3,
@@ -898,13 +878,13 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/热播库.js"
     },
-    {
-      "key": "drpy_js_蛋蛋剧",
-      "name": "影视 | 蛋蛋剧[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/蛋蛋剧.js"
-    },
+    //{
+    //  "key": "drpy_js_蛋蛋剧",
+    //  "name": "影视 | 蛋蛋剧[js]",
+    //  "type": 3,
+    //  "api": "./lib/drpy2.min.js",
+    //  "ext": "./js/蛋蛋剧.js"
+    //},
     {
       "key": "drpy_js_B站影视",
       "name": "影视 | B站影视[js]",
@@ -1455,16 +1435,16 @@
       "changeable": 1,
       "timeout": 30
     },
-    {
-      "key": "drpy_js_美剧迷",
-      "name": "磁力 | 美剧迷[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/meijumi.js",
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30
-    },
+    //{
+    //  "key": "drpy_js_美剧迷",
+    //  "name": "磁力 | 美剧迷[js]",
+    //  "type": 3,
+    //  "api": "./lib/drpy2.min.js",
+    //  "ext": "./js/meijumi.js",
+    //  "quickSearch": 1,
+    //  "changeable": 1,
+    //  "timeout": 30
+    //},
     {
       "key": "drpy_js_ddys",
       "name": "影视 | 低端影视[js]",
@@ -2019,13 +1999,13 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/NY影院.js"
     },
-    {
-      "key": "drpy_js_被窝电影",
-      "name": "影视 | 被窝电影[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/被窝电影.js"
-    },
+    //{
+    //  "key": "drpy_js_被窝电影",
+    //  "name": "影视 | 被窝电影[js]",
+    //  "type": 3,
+    //  "api": "./lib/drpy2.min.js",
+    //  "ext": "./js/被窝电影.js"
+    //},
     {
       "key": "drpy_js_厂长资源",
       "name": "影视 | 厂长资源[js]",
