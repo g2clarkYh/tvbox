@@ -4,7 +4,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://epg.pw/test_channels.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/g2clarkYh/tvbox/master/tvlive.txt",
       "playerType": 1,
       "ua": "okhttp/3.8.1",
       "timeout": 20,
