@@ -21,6 +21,15 @@
             "changeable": 0
         },
         {
+            "key": "短剧",
+            "name": "🌈上头┃短剧",
+            "type": 3,
+            "api": "csp_Djtt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "酷看",
             "name": "💡酷看┃秒播",
             "type": 3,
@@ -523,15 +532,6 @@
         {
             "key": "fan",
             "name": "导航 www.饭太硬.com",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "cc",
-            "name": "请勿相信视频中广告",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
